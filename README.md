@@ -11,7 +11,7 @@ I know many of you might be thinking that it was possible before as well. Yes I 
 
 With the release of iOS 10, Apple has opened its doors for developers by announcing the Speech recognition API public.
 
-Hence, I’ve written a tutorial on process of integrating [Speech-To-Text app](https://www.spaceotechnologies.com/build-speech-to-text-app-siri-ios-10/) feature in your iOS app.
+Hence, we've written [speech-to-text app tutorial](https://www.spaceotechnologies.com/build-speech-to-text-app-siri-ios-10/) to share the process of integrating this feature in your iOS app.
 
-Now, this is just a simple demo, but if you have an idea beyond this demo and wish to implement it you can contact Space-O Technologies - [A iPhone App Development Company](https://www.spaceotechnologies.com/iphone-app-development/
+Now, this is just a simple demo, but if you have an idea beyond this demo and wish to implement it you can contact Space-O Technologies - An [iPhone App Development Company](https://www.spaceotechnologies.com/iphone-app-development/
 ) For the same.
